@@ -21,3 +21,5 @@ plots/
 __pycache__/
 
 .fake
+
+lib/*/
