@@ -1,0 +1,5 @@
+# IoT Threat Model
+
+**Asset:** The university's Wi-Fi router or wireless access point provides network connectivity to students and staff. Important assets include network availability, account privacy, and the data transmitted across the university network. **Threat:** Cybercriminals may target network equipment with outdated firmware or weak management security to disrupt connectivity, gain unauthorized access, or misuse the network.
+I have not inspected or tested the university's network equipment, so I cannot determine whether these weaknesses are present. My threat model is based on common risks associated with network devices and the potential impact of those risks. 
+. **Response:** The university IT team should promptly apply vendor security updates, restrict administrative access, use strong authentication and appropriate network segmentation, and monitor equipment through authorized management tools. These measures are proportionate because they reduce common risks while leaving security management to the responsible administrators.
