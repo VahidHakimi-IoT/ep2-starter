@@ -13,9 +13,9 @@ Session 6. Fill this in as you go, then commit it as "FINAL: my ceiling".
 
 | Image size | My prediction             | Measured | FPS | Accuracy |
 |------------|---------------------------|----------|-----|----------|
-| 96 × 96    | guess: ... ms             | ... ms   | ... | ... %    |
-| 160 × 160  | 96 px time × 2.8 = ... ms | ... ms   | ... | ... %    |
-| 48 × 48    | 96 px time ÷ 4 = ... ms   | ... ms   | ... | ... %    |
+| 96 × 96    | guess: 90 ms             | 4377 ms   | 0.2 FPS | 80 %    |
+| 160 × 160  | 96 px time × 2.8 = 270 ms | 12140 ms   | 0.1 FPS| 83 %    |
+| 48 × 48    | 96 px time ÷ 4 = 24 ms   | 1038 ms   | 1.0 | ... %    |
 
 ## Which budget breaks first — time or memory?
 
